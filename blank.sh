@@ -1,2 +1,2 @@
 mkdir
-touch ./folder >> greetings.txt
+touch ./folder/greetings.txt
