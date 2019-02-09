@@ -1,2 +1,0 @@
-# cli
-Git Bash Assignment 
